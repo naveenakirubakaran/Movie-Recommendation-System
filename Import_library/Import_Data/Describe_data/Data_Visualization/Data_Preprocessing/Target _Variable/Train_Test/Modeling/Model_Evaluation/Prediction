@@ -1,0 +1,5 @@
+Objective
+To build a system that recommends movies to users based on their preferences and past ratings.
+
+Data Source
+The data is sourced from the MovieLens dataset, which contains millions of movie ratings from users.
