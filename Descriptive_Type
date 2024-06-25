@@ -39,5 +39,5 @@ Evaluate the model using Mean Squared Error (MSE) to measure the accuracy of the
 Prediction
 Make predictions for specific user and movie pairs, demonstrating the model's capability to recommend movies based on a user's past behavior and preferences.
 
-### Explanation
+Explanation
 Provide a detailed explanation of findings, including the model's performance, the significance of the evaluation metrics, and any challenges faced during the project. Discuss potential improvements and future work to enhance the recommendation system further.
